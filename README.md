@@ -9,6 +9,6 @@
 4. find results in the 'results' directory
 
 Here,
-<color> can be 'red' or 'green'
 
-<method> can '_without_loop' or ''
+a. <color> can be 'red' or 'green'
+b. <method> can '_without_loop' or ''

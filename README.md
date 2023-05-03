@@ -11,4 +11,5 @@
 Here,
 
 a. <color> can be 'red' or 'green'
+
 b. <method> can '_without_loop' or ''

@@ -10,4 +10,5 @@
 
 Here,
 color can be 'red' or 'green'
+
 method can '_without_loop' or ''
